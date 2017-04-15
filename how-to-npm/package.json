@@ -1,6 +1,6 @@
 {
-  "name": "@hobodbobo/how-to-npm",
-  "version": "1.0.0",
+  "name": "@hobodbobo/how-to-npm-exercise",
+  "version": "1.0.1",
   "description": "Exercises from nodeschool.io on npm",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/hobodbobo/nodeschool/how-to-npm"
+    "url": "https://www.github.com/hobodbobo/nodeschool/"
   },
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
