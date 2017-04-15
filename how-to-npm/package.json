@@ -1,0 +1,22 @@
+{
+  "name": "@hobodbobo/how-to-npm",
+  "version": "1.0.0",
+  "description": "Exercises from nodeschool.io on npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "nodeschool",
+    "node",
+    "javascript",
+    "js"
+  ],
+  "author": "hobodbobo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/hobodbobo/nodeschool/how-to-npm"
+  }
+}
