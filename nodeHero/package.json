@@ -1,0 +1,22 @@
+{
+  "name": "node_hero",
+  "version": "1.0.0",
+  "description": "NodeHero beginner examples",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "javascript",
+    "express",
+    "nodehero"
+  ],
+  "author": "",
+  "license": "ISC"
+}
